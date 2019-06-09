@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WiFi Users</string>
+    <string name="app">مستخدمين الواي فاي</string>
+    <string name="settings"><![CDATA[O]]></string>
+    <string name="ips"><![CDATA[000:000:000:000]]></string>
+    <string name="macs"><![CDATA[00:00:00:00:00:00]]></string>
+    <string name="vendor_error"><![CDATA[Vendor not found !]]></string>
+</resources>
